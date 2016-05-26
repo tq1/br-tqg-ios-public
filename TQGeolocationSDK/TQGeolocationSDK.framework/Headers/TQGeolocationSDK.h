@@ -9,6 +9,7 @@
 #import <UIKit/UIKit.h>
 #import "FMDB/FMDB.h"
 #import "FMDB-Bridging.h"
+#import "TQVersion.h"
 
 //! Project version number for TQGeolocationSDK.
 FOUNDATION_EXPORT double TQGeolocationSDKVersionNumber;
