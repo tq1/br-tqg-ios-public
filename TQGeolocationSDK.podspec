@@ -9,13 +9,13 @@
  
  Pod::Spec.new do |s|
  s.name = "TQGeolocationSDK"
- s.version = "1.3.1"
+ s.version = "1.3.2"
  s.summary = "Library TQGeolocationSDK"
  
- s.homepage = "https://github.com/tq1/tqg-sdk-ios"
+ s.homepage = "https://github.com/tq1/br-tqg-ios-public"
  s.license = { :type => 'Comercial'}
  s.author = { "Taqtile" => "felipe.sabino@taqtile.com" }
- s.source = { :git => "git@github.com:tq1/tqg-sdk-ios.git", :tag => "1.3.1" }
+ s.source = { :git => "git@github.com:tq1/br-tqg-ios-public.git", :tag => "1.3.2" }
  
  s.platform = :ios, '8.0'
  s.requires_arc = true
