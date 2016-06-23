@@ -1,1 +1,1 @@
-#define TQ_VERSION "1.3.2"
+#define TQ_VERSION "1.3.2.bc"
