@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/TQVersion.h</key>
 		<data>
-		mNwT4+YFZSr1OZN6i4uKhVh0LBU=
+		yPKXgFc/xaxml+ivDodc1oVFGJ4=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/TQGeolocationSDK.swiftmodule/arm.swiftmodule</key>
 		<data>
-		bJ9RZ6mU95kn+OxE+BFypML8rAM=
+		hpm8bo1m2ZOge9Ek6HabBbtkghk=
 		</data>
 		<key>Modules/TQGeolocationSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/TQGeolocationSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		m0AWNrhWjyst1YVQK3ryq04F7dA=
+		4Av+ymtORw0R63ia1X14PAhJEz8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -84,11 +84,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mNwT4+YFZSr1OZN6i4uKhVh0LBU=
+			yPKXgFc/xaxml+ivDodc1oVFGJ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			W3Za3/3oC8IrTRqAg5FingzlaFzqIKqeIoVgSvJEfX0=
+			pe+0g2pK36aI0rbZJFyNin7IBLonq+MQ77StoH8N1VE=
 			</data>
 		</dict>
 		<key>Modules/TQGeolocationSDK.swiftmodule/arm.swiftdoc</key>
@@ -106,11 +106,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bJ9RZ6mU95kn+OxE+BFypML8rAM=
+			hpm8bo1m2ZOge9Ek6HabBbtkghk=
 			</data>
 			<key>hash2</key>
 			<data>
-			ePp7KfAWrfe0d+V2y/NZgXTmWUh93Yw/8o2+nDUe65Q=
+			ucaKwWyDO6F0bdwvT245FDWytATaW2Wypt7WMgD5z7A=
 			</data>
 		</dict>
 		<key>Modules/TQGeolocationSDK.swiftmodule/arm64.swiftdoc</key>
@@ -128,11 +128,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			m0AWNrhWjyst1YVQK3ryq04F7dA=
+			4Av+ymtORw0R63ia1X14PAhJEz8=
 			</data>
 			<key>hash2</key>
 			<data>
-			DOH9JoCH+cZgYZS9KQ7t+LZX4Fku3i7JqgZcZaK5Zzc=
+			HNtmsvR3epUlTK32YpWZvztieljuVoTsElC09ZA4dLk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
