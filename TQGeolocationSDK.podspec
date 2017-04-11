@@ -1,4 +1,3 @@
-
 #
  # Be sure to run pod lib lint TQGeolocationSDK.podspec to ensure this is a
  # valid spec and remove all comments before submitting the spec.

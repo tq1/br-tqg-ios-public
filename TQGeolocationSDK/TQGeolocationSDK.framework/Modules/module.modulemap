@@ -1,0 +1,10 @@
+framework module TQGeolocationSDK {
+  umbrella header "TQGeolocationSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module TQGeolocationSDK.Swift {
+    header "TQGeolocationSDK-Swift.h"
+}
