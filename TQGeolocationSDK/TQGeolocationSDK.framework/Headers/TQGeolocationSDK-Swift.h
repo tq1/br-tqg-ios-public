@@ -205,6 +205,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly) NSInteger kErrorRese
 @end
 
 @class NSString;
+@class NSDictionary;
 @protocol TQGeoTrackerDelegate;
 @class NSError;
 @class TQTrigger;
@@ -215,6 +216,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) TQGeoTracker
 + (TQGeoTracker * _Nonnull)sharedInstance SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 - (void)configure:(NSString * _Nonnull)appId triggerMode:(NSInteger)triggerMode environment:(NSInteger)environment;
+- (void)configure:(NSDictionary * _Nonnull)parameters;
 - (void)setParameters:(CLLocationAccuracy)accuracy distanceFilter:(CLLocationDistance)distanceFilter cacheExpiration:(NSInteger)cacheExpiration zoneInterval:(NSNumber * _Nonnull)zoneInterval lingerTime:(NSInteger)lingerTime maxLingerTime:(NSInteger)maxLingerTime requestRetryInterval:(NSTimeInterval)requestRetryInterval;
 - (void)start;
 - (void)stop;
